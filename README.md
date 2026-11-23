@@ -57,6 +57,14 @@ const shunichi = {
   </a>
 </div>
 
+## 🏆 Trophy
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=shunichi19990314-oss&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
 ## 📈 Contribution Graph
 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shunichi19990314-oss&theme=react-dark&hide_border=true&area=true)](https://github.com/shunichi19990314-oss)
@@ -81,6 +89,10 @@ const shunichi = {
 <div align="center">
 
 ### ⭐ Thanks for visiting! / 見てくれてありがとう ⭐
+
+新作はすぐ公開されます。フォローして最新の制作をお見逃しなく 🔔
+
+[![Follow](https://img.shields.io/github/followers/shunichi19990314-oss?label=Follow%20%40shunichi19990314-oss&style=social)](https://github.com/shunichi19990314-oss)
 
 **"Talk is cheap. Show me the code."** — Linus Torvalds
 
