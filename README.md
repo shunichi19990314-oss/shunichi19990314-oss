@@ -30,7 +30,8 @@ const shunichi = {
 - 🔊 **[OpenSCQ30 Web](https://github.com/shunichi19990314-oss/openscq30-web)** — デスクトップ用OSSイコライザをブラウザへ移植。Web Serial から Bluetooth RFCOMM を直接話し、Soundcore P30i を操作
 
 - 🔌 **[Web Serial Console](https://github.com/shunichi19990314-oss/web-serial-console)** — ブラウザで動くシリアルターミナル。Web Serial API で Arduino / ESP32 / Bluetooth SPP に接続。Hex/ASCII 表示・マクロ・ログ出力・シミュレーター内蔵- 📊 **[X Trends Dashboard](https://github.com/shunichi19990314-oss/x-trends)** — X (Twitter) の地域別トレンドを可視化 (FastAPI + SQLite)。履歴・推移グラフ・地域比較・キーワード通知
-- ⬇️ **[YouTube Downloader](https://github.com/shunichi19990314-oss/youtube-downloader)** — Railway で動くセルフホストダウンローダ (FastAPI + yt-dlp + ffmpeg + Deno)。非同期ジョブ & Range 配信
+
+- 📑 **[Local PDF Toolkit](https://github.com/shunichi19990314-oss/local-pdf-toolkit)** — ブラウザ内で完結するPDF編集ツール。結合・抽出・削除・回転をアップロードなしで処理(pdf-lib + pdf.js・オフライン対応PWA)- ⬇️ **[YouTube Downloader](https://github.com/shunichi19990314-oss/youtube-downloader)** — Railway で動くセルフホストダウンローダ (FastAPI + yt-dlp + ffmpeg + Deno)。非同期ジョブ & Range 配信
 - 📺 **[WeTube](https://github.com/shunichi19990314-oss/wetube)** — Node SSR + vanilla JS でゼロから書いた YouTube 風セルフホストクライアント。検索 / 視聴 / Shorts / ライブチャットまで
 - 🎮 **[Sky Cores](https://github.com/shunichi19990314-oss/blockhaven-wildcraft)** — three.js + Rapier 製 3D プラットフォーマー。浮遊島を駆け抜け、エナジーコアを集めてパトロールドローンをかわす
 - ☁️ **[OpenNOW Web](https://github.com/shunichi19990314-oss/OpenNOW-web)** — Electron 不要、ブラウザだけで動くクラウドゲーミングクライアント (React + WebRTC)。Railway / Render デプロイ対応
